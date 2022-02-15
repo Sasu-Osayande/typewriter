@@ -1,5 +1,4 @@
 const sentence = "hello there from lighthouse labs";
-const newLine = "\n";
 
 let delay = 0;
 
